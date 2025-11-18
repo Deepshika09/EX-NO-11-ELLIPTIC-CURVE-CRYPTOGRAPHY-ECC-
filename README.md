@@ -114,7 +114,7 @@ sharedSecretB.y);
 ```
 ## Output:
 
-<img width="757" height="465" alt="image" src="https://github.com/user-attachments/assets/bd1c329f-4e1f-48b5-8cfa-0d21d903f939" />
+<img width="789" height="518" alt="Screenshot 2025-11-18 164021" src="https://github.com/user-attachments/assets/7acfa2fb-ea98-48d2-94b0-fca2f27da807" />
 
 
 ## Result:
